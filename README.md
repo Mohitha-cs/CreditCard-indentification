@@ -5,4 +5,5 @@ It can be one of the following or invalid:
 2. Master Card
 3. American Express
 
-Algorithm: Luhn's Algorithm
+## Algorithm
+Luhn's Algorithm
